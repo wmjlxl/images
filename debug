@@ -1,1 +1,0 @@
-./BaiY_STunnel -logstdout -loglevel:debugonly "%1" "%2" "%3" "%4"
